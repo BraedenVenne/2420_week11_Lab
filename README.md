@@ -1,5 +1,4 @@
 # 2420_week11_Lab
-***
 
 ## Authors
   - Braeden Venne
