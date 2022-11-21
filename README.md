@@ -7,7 +7,7 @@
 ## Installation
 Clone the repository using
 
-  git clone https://github.com/BraedenVenne/2420_week11_Lab.git
+    git clone https://github.com/BraedenVenne/2420_week11_Lab.git
 
 ## Backup Service
 
