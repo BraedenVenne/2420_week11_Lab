@@ -1,12 +1,16 @@
 # 2420_week11_Lab
-***
 
 ## Authors
   - Braeden Venne
   - Gurshawn Sekhon
 
+## Installation
+Clone the repository using
+
+    git clone https://github.com/BraedenVenne/2420_week11_Lab.git
+
 ## Backup Service
-***
+
 The backup service will backup a specific directory to a backup server every Friday at 01:00
 
 ### backup.conf
