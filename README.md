@@ -83,8 +83,8 @@ The backup service will backup a specific directory to a backup server every Fri
   
     systemctl status backup.service
     
-    Output should be as follows
-    ![picture of backup.service status](/images/status.PNG)
+   Output should be as follows
+   ![picture of backup.service status](/images/status.PNG)
 
   4. Enable **backup.service**
 
