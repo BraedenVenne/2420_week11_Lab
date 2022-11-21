@@ -87,7 +87,7 @@ The backup service will backup a specific directory to a backup server every Fri
     
     sudo systemctl enable --now backup.timer
 
-  6. Check that the timer is active 
+  6. Check if **backup.timer** is active 
 
     sytemctl list-timers
 
