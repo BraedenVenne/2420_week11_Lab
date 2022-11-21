@@ -4,4 +4,4 @@
 source /etc/backup.conf
 
 # Backup files to the backup-server
-rsync -aPve "ssh -i /home/braeden/.ssh/${KEY}" ${DIR} ${IP}:"~/"
+rsync -aPve "ssh -i ${HOME}/.ssh/${KEY}" ${DIR} ${IP}:"~/"
