@@ -18,7 +18,7 @@ The backup service will backup a specific directory to a backup server every Fri
 
   ![picture of backup.conf](/images/backup-conf.PNG)
 
-  2. Set the **DIR** variable to the desired directory path
+  2. Set the **DIR** variable to the path of the directory or directories you want to backup
 
   3. Set the **IP** variable to the user and IP of your backup-server 
   i.e. [backup-server-username]@[backup-server-IP]
