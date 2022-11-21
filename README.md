@@ -21,7 +21,7 @@ The backup service will backup a specific directory to a backup server every Fri
   2. Set the **DIR** variable to the desired directory path
 
   3. Set the **IP** variable to the user and IP of your backup-server 
-  i.e. user@123.456.78.910
+  i.e. [backup-server-username]@[backup-server-IP]
 
   4. Set the **KEY** variable to the backup-server key filename
   
