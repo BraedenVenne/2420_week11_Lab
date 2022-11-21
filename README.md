@@ -8,6 +8,9 @@
 Clone the repository using
 
     git clone https://github.com/BraedenVenne/2420_week11_Lab.git
+  
+  Example output
+  ![picture of installation output](/images/installation.PNG)
 
 ## Backup Service
 
